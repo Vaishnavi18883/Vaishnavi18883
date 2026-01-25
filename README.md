@@ -1,14 +1,50 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi Dinkar Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Vaishnavi Dinkar Patil</h1>
+<h3 align="center">Frontend Developer | React | JavaScript | MCA</h3>
 
-- 🌱 I’m currently learning **Frontend in react**
+<p align="center">
+Frontend Developer with a strong foundation in web technologies and a keen interest in building
+responsive, scalable, and user-centric web applications. Actively seeking entry-level frontend roles
+in MNC environments.
+</p>
 
-- 📫 How to reach me **patilvaishnavi1022@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### Professional Summary
+- MCA student specializing in **Frontend Development**
+- Strong understanding of **HTML5, CSS3, JavaScript (ES6+)**
+- Hands-on knowledge of **React** for component-based UI development
+- Experience using **Bootstrap** for responsive layouts and **Framer Motion** for UI animations
+- Familiar with clean coding practices, reusable components, and basic performance optimization
+- Actively preparing for **on-campus and off-campus placements**
+
+---
+
+### Technical Skills
+**Frontend Technologies:** HTML5, CSS3, JavaScript (ES6+), React  
+**UI & Styling:** Bootstrap, Framer Motion  
+**Developer Tools:** Git, GitHub, VS Code  
+**Core Concepts:** Responsive Design, DOM Manipulation, Component-Based Architecture
+
+---
+
+### Education
+**Master of Computer Applications (MCA)**  
+Currently Pursuing
+
+---
+
+### Connect
+📧 Email: **patilvaishnavi1022@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/vaishnavi-patil-714a97320
+
+---
+
+### Languages & Tools
 <p align="left">
-<a href="https://linkedin.com/in/vaishnavi-patil-714a97320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-patil-714a97320" height="30" width="40" /></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="36" height="36"/>
+</p>
