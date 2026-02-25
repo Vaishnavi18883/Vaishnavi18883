@@ -1,5 +1,5 @@
 <h1 align="center">Vaishnavi Dinkar Patil</h1>
-<h3 align="center">Frontend Developer | React | JavaScript | MCA</h3>
+<h3 align="center">Frontend Developer | React | JavaScript | Immediate Joiner</h3>
 
 <p align="center">
 Frontend Developer with a strong foundation in web technologies and a keen interest in building
@@ -20,14 +20,16 @@ in MNC environments.
 ---
 
 ### Technical Skills
-**Frontend Technologies:** HTML5, CSS3, JavaScript (ES6+), React  
-**UI & Styling:** Bootstrap, Framer Motion  
+**Frontend Technologies:** HTML5, CSS3, JavaScript (ES6+), React, React-Readux 
+**UI & Styling:** Bootstrap, Framer Motion,Tailwind CSS 
 **Developer Tools:** Git, GitHub, VS Code  
 **Core Concepts:** Responsive Design, DOM Manipulation, Component-Based Architecture
 
 ---
 
 ### Education
+**B.Com Information Technology (B.Com IT)**
+2022-2025
 **Master of Computer Applications (MCA)**  
 Currently Pursuing
 
