@@ -29,7 +29,7 @@ in MNC environments.
 
 ### Education
 **B.Com Information Technology (B.Com IT)**
-2022-2025
+2022-2025 | CGPA : 8.87
 **Master of Computer Applications (MCA)**  
 Currently Pursuing
 
