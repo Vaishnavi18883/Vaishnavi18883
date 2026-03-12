@@ -4,7 +4,7 @@
 <p align="center">
 Frontend Developer with a strong foundation in web technologies and a keen interest in building
 responsive, scalable, and user-centric web applications. Actively seeking entry-level frontend roles
-in MNC environments
+in MNC environments.
 </p>
 
 ---
